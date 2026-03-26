@@ -1,0 +1,10 @@
+pandas
+numpy
+sktime
+ydata-profiling
+mlflow
+statsmodels
+prophet
+streamlit
+plotly
+great-expectations
